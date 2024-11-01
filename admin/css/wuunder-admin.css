@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .wuunder-settings {
+    padding: 0 20px 20px 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    /* float: left; */
+    margin-bottom: 10px;
+}
+
+.wuunder-settings .form-table th {
+    width: 200px;
+}
+
+.wuunder-settings .form-table th,
+.wuunder-settings .form-table td {
+    padding-top: 0;
+    padding-bottom: 0;
+}
